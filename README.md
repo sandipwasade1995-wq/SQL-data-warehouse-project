@@ -5,7 +5,7 @@ Prepare Your GIT Repose and Analytics Project ** repository! (/
 This project demonstrates a comprehensive data warchousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio proje
 highlights industry best practices in data engineering and analytics.
 
-## s7 Project Requirements
+## Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
 
